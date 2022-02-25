@@ -24,7 +24,8 @@
    - Diphtheria : Diphtheria tetanus toxoid and pertussis (DTP3) immunization coverage among 1-year-olds (%)
    - HIV/AIDS : Deaths per 1000 live births HIV/AIDS(0-4 years)
    - GDP : Gross Domestic Product per capita (in USD)
-   - Population : Population Thinness 10-19- Prevalence of thinness among children and adolescents for Age 10 to 19(%)
+   - Population : Population 
+   - Thinness 10-19 : Prevalence of thinness among children and adolescents for Age 10 to 19(%)
    - Thinness 5-9 : Prevalence of thinness among children for Age 5 to 9(%)
    - Income Composition: Human Development Index in terms of income composition of resources(0-1)
    - Schooling : Number of years of Schooling
